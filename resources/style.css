@@ -1,0 +1,5 @@
+.cell {
+    /* 1 pixel border around the left and bottom of each cell: */
+    -fx-background-color: #000000 ;
+    -fx-background-size: 1;
+}
